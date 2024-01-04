@@ -1,7 +1,7 @@
 # inf122
 Nombre: Laura Jhanine Baldellon Santander
 <<<<<<< HEAD
-mateia:inf122
+materia:inf122
 Color favorito:#F0FOFO
 =======
 materia:inf122
